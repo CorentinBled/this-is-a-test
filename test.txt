@@ -5,6 +5,9 @@ Test
 tEst
 Second edit
 teSt
+
+This is a change done by master
+
 tesT
 
 This is the first edit I am making.
